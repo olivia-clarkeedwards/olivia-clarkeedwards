@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 -  ...
 - ...
 😄 Pronouns: she
+⚡ decided to fast-track my way into work by doing a *coding bootcamp* after completing two years of my computer science degree   
 -->
 
-I...  
-🔭 currently study at Dev Academy Aotearoa  
-🌱 am learning to work with servers using **npm express** and learning templating with **npm handlebars**  
-⚡ decided to fast-track my way into work by doing a *coding bootcamp* after completing two years of my computer science degree   
+
+🔭 Studying at: Dev Academy Aotearoa  
+🌱 Learning: **npm express** and **npm handlebars**  
 📫 Reach me at oliviaclarkeedwards@gmail.com
