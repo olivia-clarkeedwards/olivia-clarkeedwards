@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 -->
 
 
-🔭 Studying at: Dev Academy Aotearoa  
-🌱 Learning: **npm express** and **npm handlebars**  
+🔭 Studying at Dev Academy Aotearoa  
+🌱 Learning **npm express** and **npm handlebars**  
 📫 Reach me at oliviaclarkeedwards@gmail.com
