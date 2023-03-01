@@ -1,4 +1,4 @@
-### Hi, I'm Olivia (she/they)👋
+### Hi, I'm Olivia (she/they) 👋
 
 <!--
 **olivia-clarkeedwards/olivia-clarkeedwards** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 -->
 
 
-🔭 Studying at Dev Academy Aotearoa  
-🌱 Learning **npm express** and **npm handlebars**  
-📫 Reach me at oliviaclarkeedwards@gmail.com
+🔭 I'm studying at **Dev Academy Aotearoa** 
+🌱 I'm currently learning **npm express** and **npm handlebars**  
+📫 Reach me at **oliviaclarkeedwards@gmail.com**
