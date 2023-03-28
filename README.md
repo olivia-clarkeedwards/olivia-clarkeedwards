@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 
 🔭 I'm studying at **Dev Academy Aotearoa**   
-⚛️ I'm currently learning **React** and **TypeScript**  
+⚛️ I'm currently learning **React**, **React-Redux** and **TypeScript**  
 🌱 Last week I was learning to work with servers and templates using **express** and **handlebars**   
 📫 Reach me at **oliviaclarkeedwards@gmail.com**  
