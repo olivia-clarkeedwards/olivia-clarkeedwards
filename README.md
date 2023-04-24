@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 🔭 **Dev Academy Aotearoa** bootcamp graduate   
 ⚛️ Have skills in **React**, **React-Redux** and **TypeScript**  
-🌱 **Curious** and **passionate** about learning new tech and working with others 
+🌱 **Curious** and **passionate** about learning new tech and working with others   
 📫 Reach me at **oliviaclarkeedwards@gmail.com**  
