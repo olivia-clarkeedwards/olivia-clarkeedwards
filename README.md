@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ⚡ decided to fast-track my way into work by doing a *coding bootcamp* after completing two years of my computer science degree   
 -->
 
-🦎 Frontend React Developer at **Chameleon Creator** 
+🦎 Frontend React Developer at **Chameleon Creator**   
 🔭 **Dev Academy Aotearoa** bootcamp graduate   
 ⚛️ Have skills in **React**, **React-Redux** and **TypeScript**  
 🌱 **Curious** and **passionate** about learning new tech and working with others   
